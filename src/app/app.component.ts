@@ -13,9 +13,6 @@ export class AppComponent {
 
   throws(): void {
     this.throw = -1;
-    
-    
-
     async function delay(ms: number) {
       await new Promise(resolve => setTimeout(()=>resolve(), 1000)).then(()=>console.log("fired"));
     }

@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'headOrTail';
+  title = 'Head or Tail';
   throw = -1;
 
   listThrows = [];

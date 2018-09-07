@@ -1,4 +1,5 @@
-# Myapp
+# Head or Tail
+A simple app that throw a coin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
